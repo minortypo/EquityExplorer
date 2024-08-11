@@ -1,4 +1,4 @@
-### EquityExplorer
+### Equity Explorer
 #### Track real-time values of the world's major stock exchanges.
 
 - Make web version
